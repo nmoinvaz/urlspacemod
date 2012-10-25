@@ -1,3 +1,3 @@
 URL Space Rewriter
 
-This is an ISAPI filter that rewrites space characters from + to %20.
+This is an ISAPI http filter that rewrites space characters from + to %20.
