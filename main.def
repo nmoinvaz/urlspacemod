@@ -1,0 +1,5 @@
+LIBRARY	"urlspacemod"
+
+EXPORTS
+    HttpFilterProc
+    GetFilterVersion
